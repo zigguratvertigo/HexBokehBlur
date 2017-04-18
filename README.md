@@ -1,6 +1,6 @@
 # Hexagonal Bokeh Blur
 
-This sample is the companion code to the blog post "Hexagonal Bokeh Blur Revisited".
+This sample is the companion code to the blog post "[Hexagonal Bokeh Blur Revisited](https://colinbarrebrisebois.com/2017/04/18/hexagonal-bokeh-blur-revisited/)".
 
 # Build Instructions
 
